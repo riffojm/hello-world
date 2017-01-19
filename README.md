@@ -1,2 +1,3 @@
 # hello-world
-this is a description for my new repository
+
+This is me, Riffo, wrtiting a description of myself.
